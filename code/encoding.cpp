@@ -1,3 +1,8 @@
+/*
+  This code contains a function that takes strings and encodes each 
+  letter (case-sensitive). The function is sensitive to any non-letter
+  characters that may appear in the string.
+*/
 #include <iostream>
 
 char letterCheck(char letter) 
