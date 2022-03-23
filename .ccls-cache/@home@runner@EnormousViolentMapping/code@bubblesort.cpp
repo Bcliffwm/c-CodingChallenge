@@ -1,5 +1,5 @@
 /*
-  This code contains a function which happens to be an optimized version of the bubble sort algorithm
+  This code contains a function which happens to be an optimized version of the bubble sort algorithm. The function takes a vector of integers (positive and negative) and sorts them in ascending order.
 */
 #include <iostream>
 #include <vector>
