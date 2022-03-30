@@ -1,7 +1,8 @@
 /*
   This code contains a function that takes a string vector and returns
-  the same 
+  the same vector with the contents sorted by the length of each element.
 */
+
 #include <iostream>
 #include <vector>
 
